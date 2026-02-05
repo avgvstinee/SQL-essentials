@@ -1,1 +1,1 @@
-# SQL-foundation
+# SQL-essentials
