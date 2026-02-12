@@ -48,3 +48,5 @@ VALUES
     '9000 N 1st Street, San Jose, CA 95134'
   ) 
 RETURNING *;
+
+SELECT * FROM orders
